@@ -1,4 +1,6 @@
-code to check words: from project_fixed import DictionaryClient; w=DictionaryClient().lookup('obey'); print(w.definitions)"
+code to check words: from project_fixed import DictionaryClient; w=DictionaryClient().lookup('obey'); print(w.definitions)".
+
+
 The word here is "obey", change it to check if the online dictionary is working
 
 ......still working on the GUI part
